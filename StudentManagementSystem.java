@@ -13,7 +13,7 @@ public class StudentManagementSystem {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             while (true) {
-                System.out.println("\n=== STUDENT MANAGEMENT SYSTEM ===");
+                System.out.println("\nSTUDENT MANAGEMENT SYSTEM");
                 System.out.println("1. Add student");
                 System.out.println("2. View all students");
                 System.out.println("3. Search student by ID");
