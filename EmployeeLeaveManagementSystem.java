@@ -13,7 +13,7 @@ public class EmployeeLeaveManagementSystem {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             while (true) {
-                System.out.println("\n=== EMPLOYEE LEAVE MANAGEMENT ===");
+                System.out.println("\nEMPLOYEE LEAVE MANAGEMENT");
                 System.out.println("1. Register employee");
                 System.out.println("2. View employees");
                 System.out.println("3. Apply for leave");
